@@ -1,4 +1,6 @@
 <template>
+<!-- 在可视区域 路由占位 -->
+<router-view></router-view>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
